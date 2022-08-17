@@ -23,6 +23,10 @@ section {
     box-shadow: 5px 10px 8px #888888;
 }
 
+#anteMatter {
+    background-color: bisque;
+}
+
 figcaption {
     display: block;
     max-width:640px;
@@ -38,6 +42,8 @@ h2 {
 
 #tripMap {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #mainHeading {
