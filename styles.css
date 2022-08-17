@@ -1,1 +1,53 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+}
+
+.bodyImage {
+    display: block;
+    max-width:640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    min-width: 512px;
+    max-width: 720px;
+    width: 80%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+figcaption {
+    display: block;
+    max-width:640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tripMap {
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+p {
+    padding: 32px;
+}
